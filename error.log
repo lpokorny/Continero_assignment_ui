@@ -1,4 +1,0 @@
-Error logging examples created by simulated errors:
-
-2023-04-17 17:20:17,110 ERROR Error occurred when attempted to click ('css selector', 'a[title="Propositdsaion"]')
-2023-04-17 17:20:53,809 ERROR Error occurred when attempted to click ('css selector', 'a[title="Philosophy of lanuage"]')

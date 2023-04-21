@@ -1,7 +1,20 @@
+Virtual environment setup and test execution:
+1) pip install pipenv
+2) navigate to the project root directory
+3) pipenv install
+4) pipenv shell
+5) python -m pytest -s
+
+Remove virtual environment:
+1) exit (only if currently in pipenv shell)
+2) pipenv --rm (from the root directory, where virtual environment was created)
+
+uninstall pipenv:
+1) pip uninstall pipenv
+
+
 In every article, first link within article body is clicked (excluding "Not to be confused with" which I don't consider
 to be part of article body)
 
 The article was chosen randomly from "From today's featured article" on the main page on 15.4.
-
-not many comments are provided, as all usages are very simple and self explanatory
 
